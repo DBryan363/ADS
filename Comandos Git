@@ -1,0 +1,7 @@
+git pull origin rama   ---bajar cambios
+git add .   ---agregar cambios
+git commit -am "comentario"   ---confirmar cambios
+git push origin rama   ---subir cambios
+git checkout rama   ---cambiar de rama
+git merge rama   ---chancar rama
+git checkout -D rama   ---borrar rama
